@@ -2,7 +2,7 @@
 
 <!-- ================= HEADER ================= -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=260&section=header&text=INSANECODER789&fontSize=70&fontColor=58a6ff&animation=fadeIn&desc=Legacy%20Identity%20•%20Est.%202021&descAlignY=70"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=260&section=header&text=Rochiee24&fontSize=70&fontColor=58a6ff&animation=fadeIn&desc=Legacy%20Identity%20•%20Est.%202021&descAlignY=70"
 />
 
 <br/>
@@ -10,7 +10,7 @@
 <!-- ================= INTRO ================= -->
 <h2>Building intelligent apps & web with AI at the core 🚀</h2>
 
-<strong>Rohan</strong> · AI-Assisted App & Web Developer  
+<strong>Rochiee</strong> · AI-Assisted App & Web Developer  
 <em>Product-focused · System-aware · AI-accelerated</em>
 
 <br/><br/>
