@@ -1,49 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=0D1117&height=220&section=header&text=ROCHIEE&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20CORE%20%E2%80%A2%20SYSTEM%20ARCHITECT&descSize=22&descAlignY=60&fontColor=58a6ff" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=kashida&color=0D1117&height=250&section=header&text=ROCHIEE&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20CORE%20SYSTEM%20ARCHITECT&descSize=22&descAlignY=60&fontColor=58a6ff" width="100%" />
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ACCOUNT_AGE-5_YEARS-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/FIRST_CODE-2021-00E676?style=for-the-badge&logo=codeforces&logoColor=black" />
-  <img src="https://img.shields.io/badge/STATUS-SHIPPING_LIVE-white?style=for-the-badge&logo=statuspage&logoColor=black" />
+  <img src="https://img.shields.io/badge/NODE_INCEPTION-2021-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/UPTIME-5_YEARS-00E676?style=for-the-badge&logo=clockify&logoColor=black" />
+  <img src="https://img.shields.io/badge/REPOS-18+_ACTIVE-white?style=for-the-badge&logo=git&logoColor=black" />
 </p>
 
 ---
 
 <div align="left">
-  <h3>🪪 Developer Identity</h3>
-  <table width="100%">
-    <tr>
-      <td style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); border: 1px solid #58a6ff; border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-        <table width="100%">
-          <tr>
-            <td width="110">
-              <img src="https://avatars.githubusercontent.com/u/81145388" width="100" style="border-radius: 20%; border: 3px solid #58a6ff; box-shadow: 0 0 20px rgba(88,166,255,0.4);" />
-            </td>
-            <td style="padding-left: 25px;">
-              <h2 style="margin: 0; color: #ffffff; letter-spacing: 2px; font-family: sans-serif;">ROCHIEE</h2>
-              <p style="margin: 5px 0; color: #8b949e; font-family: monospace; font-size: 14px;">
-                📡 NODE_CONNECTED: <span style="color: #58a6ff;">APRIL 2021</span><br/>
-                🛠️ FIRST_PROJECT: <span style="color: #00E676;">2021_LEGACY</span><br/>
-                🚀 ACTIVE_REPOS: <span style="color: #ffca28;">18+ AND GROWING</span>
-              </p>
-              <div style="margin-top: 15px;">
-                <span style="background: rgba(88,166,255,0.1); color: #58a6ff; padding: 6px 14px; border-radius: 8px; font-size: 11px; font-weight: bold; border: 1px solid rgba(88,166,255,0.3);">FULL-STACK</span>
-                <span style="background: rgba(0,230,118,0.1); color: #00E676; padding: 6px 14px; border-radius: 8px; font-size: 11px; font-weight: bold; border: 1px solid rgba(0,230,118,0.3); margin-left: 5px;">AI-CO-PILOTED</span>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+  <h3>🪪 System Identity & Legacy</h3>
+  <a href="https://github.com/InsaneCoder789">
+    <table width="100%">
+      <tr>
+        <td background="https://raw.githubusercontent.com/mayur091193/mayur091193/main/assets/img/glassmorphism_card.png" style="background-size: cover; background-position: center; border: 1px solid #30363d; border-radius: 20px; padding: 50px 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+          <div align="center">
+            <img src="https://avatars.githubusercontent.com/u/81145388" width="120" style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 0 25px rgba(88,166,255,0.6);" />
+            <br/><br/>
+            <h1 style="margin: 0; color: #ffffff; letter-spacing: 3px; font-family: sans-serif; text-shadow: 2px 2px 10px rgba(0,0,0,0.8);">ROCHIEE</h1>
+            <p style="margin: 10px 0; color: #58a6ff; font-family: monospace; font-size: 18px; font-weight: bold;">
+              [ ACCESS GRANTED: LEGACY_NODE_2021 ]
+            </p>
+            <p style="color: #b5b5b5; font-size: 14px; max-width: 500px;">
+              <i>Click anywhere on this card to explore the 2021 inception archives and the 18+ repository journey of <b>InsaneCoder789</b>.</i>
+            </p>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </a>
 </div>
 
 ---
 
-<h3>📊 System Performance (2026 Core)</h3>
+<h3>📊 Performance Metrics</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rochiee24&show_icons=true&theme=transparent&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rochiee24&theme=transparent&stroke=58a6ff&fire=58a6ff&ring=ffffff&sideLabels=ffffff&hide_border=true" width="49%" />
@@ -57,7 +51,7 @@
 
 ---
 
-<h3>🛠️ Tech Arsenal</h3>
+<h3>🛠️ Core Tech Arsenal</h3>
 <div align="center">
 
 | **LANGUAGES** | **FRAMEWORKS** | **AI & CLOUD** |
@@ -72,16 +66,12 @@
 
 <div align="center">
   <h3>⚡ Terminal Access</h3>
-  <a href="https://twitter.com/RohanCh81145388"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://instagram.com/rochiee24"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
-<br/>
-
-<div align="center">
+  <a href="https://twitter.com/RohanCh81145388"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/rochiee24"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/rochiee24"><img src="https://img.shields.io/badge/-Main_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/mayur091193/mayur091193/main/assets/img/hr.gif" width="100%" />
-  <p style="color: #444;"><code>Build 2.0.26 | Powered by Rochiee & Gemini</code></p>
+  <p><sub>System Build: v2.0.26 | Established April 2021</sub></p>
 </div>
 
 </div>
