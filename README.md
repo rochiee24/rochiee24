@@ -7,6 +7,8 @@
   <em>AI-Assisted App & Web Developer</em>
 </p>
 
+
+
 <p align="center">
   <em>
     Skill-based programmer using AI as a co-pilot to deliver
@@ -34,6 +36,44 @@ I value:
 If it’s on my GitHub, it’s something I intend to **finish and improve**.
 
 ---
+
+## 🕰️ Previous GitHub Journey
+
+<p align="center">
+  <a href="https://github.com/InsaneCoder789" target="_blank">
+    <img src="https://github.com/InsaneCoder789.png" width="96" height="96" style="border-radius:50%" />
+  </a>
+</p>
+
+<h3 align="center">InsaneCoder789</h3>
+
+<p align="center">
+  <em>
+    My original GitHub account where my development journey began.
+  </em>
+</p>
+
+<p align="center">
+  <strong>🗓 Started:</strong> 2022 &nbsp;•&nbsp;
+  <strong>📦 Repositories:</strong> 18+ &nbsp;•&nbsp;
+  <strong>🧑‍💻 Owner:</strong> Rochiee
+</p>
+
+<p align="center">
+  <a href="https://github.com/InsaneCoder789">
+    <img src="https://img.shields.io/badge/View%20Legacy%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    This account represents my early learning, experimentation, and foundation-building phase.
+    Select projects have been migrated and refined into this profile.
+  </sub>
+</p>
+
+---
+
 
 ## 🛠 Tech Stack
 
