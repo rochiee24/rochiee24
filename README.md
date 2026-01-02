@@ -1,130 +1,94 @@
-<h1 align="center">
-  🚀 Building intelligent Apps & Webpages with AI at the core
-</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Rochiee</strong><br/>
-  <em>AI-Assisted App & Web Developer</em>
-</p>
+# 🚀 Building Intelligent Apps & Webpages
+### **AI at the core • Human in control**
 
-
-
-<p align="center">
-  <em>
-    Skill-based programmer using AI as a co-pilot to deliver
-    high-quality products at a faster pace.
-  </em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rochiee24&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=rochiee24&label=VIEWS&color=0e75b6&style=flat-square)](https://github.com/rochiee24)
+[![Status](https://img.shields.io/badge/STATUS-SHIPPING_PRODUCTS-success?style=flat-square&logo=rocket)](https://github.com/rochiee24)
+[![Twitter](https://img.shields.io/twitter/follow/RohanCh81145388?style=flat-square&logo=x&label=FOLLOW)](https://twitter.com/RohanCh81145388)
 
 ---
 
-## 🧠 About Me
+**Rochiee**
+*AI-Assisted App & Web Developer*
 
-I’m a developer focused on **shipping real products**, not endless experimentation.
+> "Skill-based programmer using AI as a co-pilot to deliver high-quality products at a faster pace."
 
-I build across **mobile apps and web platforms**, using AI to accelerate development while keeping **architecture, security, and decision-making firmly human-controlled**.
+</div>
 
-I value:
-- ✅ clean execution  
-- ✅ real-world usability  
-- ✅ ownership from idea → delivery  
+## 🧠 Philosophy: Build → Ship → Improve
+I’m a developer focused on **shipping real products**, not endless experimentation. I bridge the gap between idea and deployment by leveraging AI to handle the heavy lifting while I maintain total control over **architecture, security, and logic.**
 
-If it’s on my GitHub, it’s something I intend to **finish and improve**.
-
----
-
-## 🕰️ Previous GitHub Journey
-
-<p align="center">
-  <a href="https://github.com/InsaneCoder789" target="_blank">
-    <img src="https://github.com/InsaneCoder789.png" width="96" height="96" style="border-radius:50%" />
-  </a>
-</p>
-
-<h3 align="center">InsaneCoder789</h3>
-
-<p align="center">
-  <em>
-    My original GitHub account where my development journey began.
-  </em>
-</p>
-
-<p align="center">
-  <strong>🗓 Started:</strong> 2022 &nbsp;•&nbsp;
-  <strong>📦 Repositories:</strong> 18+ &nbsp;•&nbsp;
-  <strong>🧑‍💻 Owner:</strong> Rochiee
-</p>
-
-<p align="center">
-  <a href="https://github.com/InsaneCoder789">
-    <img src="https://img.shields.io/badge/View%20Legacy%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    This account represents my early learning, experimentation, and foundation-building phase.
-    Select projects have been migrated and refined into this profile.
-  </sub>
-</p>
+- **Clean Execution:** Minimalist code, maximum impact.
+- **Real-world Usability:** Built for users, not just for portfolios.
+- **Full Ownership:** Responsible for every line from `init` to `deploy`.
 
 ---
 
-
-## 🛠 Tech Stack
-
-### 💻 Languages I Use Frequently
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
-
-### 📦 Frameworks & Tools
-- **Mobile:** Flutter  
-- **Web:** Next.js · React  
-- **Backend & Auth:** Firebase · Supabase  
-- **AI Platforms:** OpenAI · Gemini · Claude  
-- **Other:** REST APIs · Git · Automation scripts  
+## 🏗️ Legacy & Roots
+<a href="https://github.com/InsaneCoder789" target="_blank" style="text-decoration: none;">
+  <table width="100%">
+    <tr>
+      <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 12px; padding: 24px;">
+        <div style="display: flex; align-items: center;">
+          <img src="https://avatars.githubusercontent.com/u/121864115" width="70" style="border-radius: 50%; border: 2px solid #58a6ff; margin-right: 20px;" />
+          <div>
+            <b style="font-size: 1.2rem; color: #f0f6fc;">InsaneCoder789</b><br/>
+            <code style="color: #8b949e;">Since 2023</code><br/>
+            <span style="color: #58a6ff;">18+ Repositories • Systems & Experiments</span>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</a>
 
 ---
 
-## 🤖 How I Use AI
+## 🛠 Tech Stack & Arsenal
 
-I treat AI as a **force multiplier**, not a crutch.
+### 💻 Languages
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-AI helps me:
-- accelerate implementation
-- evaluate architectural approaches
-- generate boilerplate responsibly
-- refactor and review code
+### 📦 Frameworks & Cloud
+| Category | Tools |
+| :--- | :--- |
+| **Mobile** | `Flutter` |
+| **Web** | `Next.js` • `React` • `TailwindCSS` |
+| **Backend** | `Firebase` • `Supabase` • `PostgreSQL` |
+| **AI** | `OpenAI API` • `Gemini` • `Claude` • `LangChain` |
 
-**Final structure, logic, and accountability remain human-led.**  
-Speed matters — correctness matters more.
+---
 
-## 📈 GitHub Activity
+## 🤖 The AI Force Multiplier
+I treat AI as a **high-performance engine**, but I am the **driver**. 
 
+* **Implementation:** 10x faster feature rollouts.
+* **Architecture:** Cross-verifying system designs with LLMs.
+* **Refactoring:** AI-driven code optimization for readability.
+* **Safety:** Human-led logic verification to ensure zero hallucinations in production.
+
+---
+
+## 📊 Performance Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rochiee24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rochiee24&theme=tokyonight&hide_border=true&background=0D1117" height="170"/>
+</div>
+
+---
+
+## 📫 Let's Build Something
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rochiee24&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rochiee24&theme=tokyonight&hide_border=true" height="165"/>
+<a href="https://github.com/rochiee24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://twitter.com/RohanCh81145388"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://instagram.com/rochiee24"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
-
-## 📫 Connect With Me
-
-- 💻 GitHub: https://github.com/rochiee24  
-- 📸 Instagram: https://instagram.com/rochiee24  
-- 🐦 X (Twitter): https://twitter.com/RohanCh81145388  
-
----
-
-<p align="center">
-  <strong>Build → Ship → Improve.</strong>
-</p>
+<div align="center">
+  <sub>Built with 🤖 and ☕ by Rochiee © 2026</sub>
+</div>
