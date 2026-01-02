@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚀 Building intelligent apps & web with AI at the core
+  🚀 Building intelligent Apps & Webpages with AI at the core
 </h1>
 
 <p align="center">
