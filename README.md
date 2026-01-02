@@ -5,7 +5,7 @@
 <h1 align="center">Building intelligent apps & web with AI at the core 🚀</h1>
 
 <p align="center">
-  <strong>Rochiee24</strong><br/>
+  <strong>InsaneCoder789</strong><br/>
   <em>AI-Assisted App & Web Developer · System-First Mindset</em>
 </p>
 
@@ -19,14 +19,14 @@
 
 ## 👋 Introduction
 
-I’m **Rochiee**, an AI-assisted **App & Web Developer** who focuses on  
-**building, shipping, and maintaining real products**.
+I’m **InsaneCoder789**, an AI-assisted **App & Web Developer** focused on  
+**building, shipping, and maintaining real-world systems**.
 
 I don’t treat code as experiments.  
 I treat it as **systems that must work, scale, and last**.
 
 AI is my **co-pilot**, not my replacement —  
-final decisions, architecture, and responsibility are always **human-led**.
+architecture, decisions, and responsibility are always **human-led**.
 
 ---
 
@@ -34,7 +34,7 @@ final decisions, architecture, and responsibility are always **human-led**.
 
 <p align="center">
   <a href="https://github.com/InsaneCoder789">
-    <img src="https://avatars.githubusercontent.com/u/81145388?v=4" width="140" style="border-radius:50%;" />
+    <img src="https://avatars.githubusercontent.com/u/81145388?v=4" width="140" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@ final decisions, architecture, and responsibility are always **human-led**.
 
 ---
 
-## 📊 Performance Metrics
+## 📊 Legacy Performance Metrics (InsaneCoder789)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=InsaneCoder789&show_icons=true&theme=transparent&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&hide_border=true" height="160"/>
@@ -86,7 +86,7 @@ final decisions, architecture, and responsibility are always **human-led**.
 - **Web:** Next.js · React  
 - **Backend:** Firebase · Supabase  
 - **AI:** OpenAI · Gemini · Claude  
-- **Tools:** Git · REST APIs · Automation
+- **Tools:** Git · REST APIs · Automation  
 
 ---
 
@@ -97,8 +97,6 @@ I use AI to:
 - explore architectural options
 - generate boilerplate responsibly
 - refactor and review code
-
-I **do not** outsource thinking.
 
 > AI speeds execution —  
 > **engineering judgment stays human.**
